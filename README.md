@@ -1,4 +1,4 @@
-# NewYork-Bike-Traffic
+# New York-Bike-Traffic
 NewYork Bike Traffic Data Analysis
 
 
